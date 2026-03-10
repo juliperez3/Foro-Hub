@@ -71,4 +71,4 @@ El código está organizado siguiendo las mejores prácticas de la industria:
 ## 🏆 Desafío Finalizado
 Proyecto desarrollado como parte del programa **Oracle Next Education (ONE)**. Se aplicaron buenas prácticas como el manejo de códigos de estado HTTP (201 Created, 204 No Content, 404 Not Found, etc.).
 
-**Desarrollado por Juliana Perez Anaine**
+**Desarrollado por Juliana Perez**
